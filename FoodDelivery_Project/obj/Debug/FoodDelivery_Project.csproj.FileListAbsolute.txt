@@ -1,0 +1,12 @@
+D:\R54\M5\Projects\3\FoodDelivery_Project\FoodDelivery_Project\bin\Debug\FoodDelivery_Project.exe.config
+D:\R54\M5\Projects\3\FoodDelivery_Project\FoodDelivery_Project\bin\Debug\FoodDelivery_Project.exe
+D:\R54\M5\Projects\3\FoodDelivery_Project\FoodDelivery_Project\bin\Debug\FoodDelivery_Project.pdb
+D:\R54\M5\Projects\3\FoodDelivery_Project\FoodDelivery_Project\obj\Debug\FoodDelivery_Project.csproj.AssemblyReference.cache
+D:\R54\M5\Projects\3\FoodDelivery_Project\FoodDelivery_Project\obj\Debug\FoodDelivery_Project.csproj.SuggestedBindingRedirects.cache
+D:\R54\M5\Projects\3\FoodDelivery_Project\FoodDelivery_Project\obj\Debug\FoodDelivery_Project.MainForm.resources
+D:\R54\M5\Projects\3\FoodDelivery_Project\FoodDelivery_Project\obj\Debug\FoodDelivery_Project.Properties.Resources.resources
+D:\R54\M5\Projects\3\FoodDelivery_Project\FoodDelivery_Project\obj\Debug\FoodDelivery_Project.csproj.GenerateResource.cache
+D:\R54\M5\Projects\3\FoodDelivery_Project\FoodDelivery_Project\obj\Debug\FoodDelivery_Project.csproj.CoreCompileInputs.cache
+D:\R54\M5\Projects\3\FoodDelivery_Project\FoodDelivery_Project\obj\Debug\FoodDelivery_Project.exe
+D:\R54\M5\Projects\3\FoodDelivery_Project\FoodDelivery_Project\obj\Debug\FoodDelivery_Project.pdb
+D:\R54\M5\Projects\3\FoodDelivery_Project\FoodDelivery_Project\obj\Debug\FoodDelivery_Project.AddOrderForm.resources
